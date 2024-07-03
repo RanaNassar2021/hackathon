@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "img": "/Assets/Images/InterviewMe.jpg",
+        "title": "Interview Me",
+        "summary": "Built with GPT-3, React, and Flask. Practice interviews with AI and ace your next interview.",
+        "description": "Built with GPT-3, React, and Flask. Practice interviews with AI and ace your next interview.",
+        "name": "",
+        "start-date": "Tue Jul 02 2024 17:42:44",
+        "end-date": "",
+        "lastUpdated": "2024-06-30T12:00:00Z"
+    },
+    {
+        "id": 2,
+        "img": "/Assets/Images/LoremIpsum.png",
+        "title": "Lorem Ipsum",
+        "summary": "Lorem ipsum dolor sit amet consectetur. Auctor nibh eleifend tempus egestas libero tristique nec.",
+        "description": "Lorem ipsum dolor sit amet consectetur. Auctor nibh eleifend tempus egestas libero tristique nec.",
+        "name": "",
+        "start-date": "",
+        "end-date": "",
+        "lastUpdated": "2024-06-25T12:00:00Z"
+    },
+    {
+        "id": 3,
+        "img": "/Assets/Images/PotterIpsum.png",
+        "title": "Potter Ipsum",
+        "summary": "Potter ipsum wand elf parchment wingardium. Ghost glass hall tears hair must train. Snape alohamora bathrooms.",
+        "description": "Potter ipsum wand elf parchment wingardium. Ghost glass hall tears hair must train. Snape alohamora bathrooms.",
+        "name": "",
+        "start-date": "",
+        "end-date": "",
+        "lastUpdated": "2024-06-20T12:00:00Z"
+    },
+    {
+        "id":4,
+        "img":"/Assets/Images/PizzaIpsum.png",
+        "title":"Pizza Impsum",
+        "summary":"Pizza ipsum dolor meat lovers buffalo. Burnt melted NY.",
+        "description":"Pizza ipsum dolor meat lovers buffalo. Burnt melted NY.",
+        "name":"",
+        "start-date":"",
+        "end-date":"",
+        "lastUpdated": "2024-06-18T12:00:00Z"
+    },
+    {
+        "id":5,
+        "img":"/Assets/Images/FigmaIpsum.png",
+        "title":"Figma Ipsum",
+        "summary":"Figma ipsum component variant main layer. Blur hand object thumbnail subtract flows font bold image. Font.",
+        "description":"Figma ipsum component variant main layer. Blur hand object thumbnail subtract flows font bold image. Font.",
+        "name":"",
+        "start-date":"",
+        "end-date":"",
+        "lastUpdated": "2024-06-15T12:00:00Z"
+    },
+    {
+        "id":6,
+        "img":"/Assets/Images/OfficeIpsum.png",
+        "title":"Office Ipsum",
+        "summary":"Office ipsum you must be muted.",
+        "description":"Office ipsum you must be muted.",
+        "name":"",
+        "start-date":"",
+        "end-date":"",
+        "lastUpdated": "2024-06-10T12:00:00Z"
+    }
+]
